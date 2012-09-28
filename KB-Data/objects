@@ -1,0 +1,14 @@
+cube shape:cube:1 form:straight:1
+ball shape:sphere:1 form:round:1
+ribbon shape:line:1 form:straight:1 opacity:None:1
+sofa colour:red:0.1 colour:orange:.033333 colour:yellow:.033333 colour:green:0.1 colour:blue:0.0666667 colour:purple:0.0 colour:pink:.033333 colour:black:0.1 colour:brown:.033333 colour:grey:0.0666667 colour:white:0.43333333333333335
+fan colour:red:.033333 colour:orange:0.0 colour:yellow:0.0 colour:green:0.0 colour:blue:0.0666667 colour:purple:0.0 colour:pink:0.0 colour:black:0.2666666667 colour:brown:0.0666667 colour:grey:0.43333333333333335 colour:white:0.133333333
+desk colour:red:0.0 colour:orange:0.0 colour:yellow:0.0 colour:green:0.0 colour:blue:0.0 colour:purple:0.0 colour:pink:0.0 colour:black:0.1 colour:brown:0.7 colour:grey:0.0666667 colour:white:0.133333333
+chair colour:red:0.3 colour:orange:.033333 colour:yellow:0.0 colour:green:0.0 colour:blue:0.0666667 colour:purple:.033333 colour:pink:0.0 colour:black:0.16666666667 colour:brown:0.3 colour:grey:0.0 colour:white:0.1
+bowl material:ceramic:.1667 shape:round:.6333
+box material:cardboard:.5333 shape:square:.7000 color:brown:.1667
+envelope material:paper:.4667 shape:rectangle:1.000 color:white:.4333
+key material:metal:.6667 shape:round:.6667
+mug material:ceramic:.3333 shape:round:.6667
+ruler material:wood:.5667 shape:rectangle:.2000
+screw material:metal:.5667 shape:flat:.2000
